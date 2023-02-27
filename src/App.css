@@ -1,0 +1,46 @@
+body {
+  text-align: center;
+  background-image: linear-gradient(to left, pink,cyan, transparent);
+}
+
+.text-f{
+  background-color: grey;
+  border-color: black;
+  border-radius: 20px;
+  color: white;
+  width: 250px;
+  height: 40px;
+  text-align: center;
+}
+
+.sub-b{
+  width: 200px;
+  height: 40px;
+  background-color: grey;
+  border-color: black;
+  border-radius: 20px;
+  font-size: 20px;
+  color: white;
+}
+
+.shw-b{
+  width: 900px;
+  height: auto;
+  display: flex;
+  flex-wrap: wrap;
+  align-items:flex-start ;
+  justify-content:space-evenly;
+  background-color: cadetblue;
+  position: relative;
+  left: 260px;
+  
+}
+
+.cont-b{
+  width:400px;
+  height:50px;
+  background-color: palevioletred;
+  border-radius: 16px;
+  border-color:2px solid black;
+  margin:5px;
+}
